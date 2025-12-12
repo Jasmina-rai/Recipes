@@ -2,5 +2,5 @@
 #Guacamole
 ## Ingredients
 * Avacado
-* Lemon
+* Lime
 ## Method
