@@ -3,5 +3,4 @@
 ## Ingredients
 * Avacado
 * Lime
-* Coriander
 ## Method
